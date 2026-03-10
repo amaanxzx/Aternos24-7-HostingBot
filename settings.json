@@ -1,7 +1,7 @@
 {
   "name": "AFK BOT",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Jamalu",
     "password": "",
     "type": "offline"
   },
@@ -65,7 +65,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
