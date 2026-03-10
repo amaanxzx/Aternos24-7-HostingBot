@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK BOT",
   "bot-account": {
     "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
+    "ip": "FAAH-smp.aternos.me",
+    "port": 64492,
     "version": "1.21.1",
     "try-creative": false
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Follow fr.amaxn._",
+        "FAAH!"
       ]
     },
     "chat-log": true,
